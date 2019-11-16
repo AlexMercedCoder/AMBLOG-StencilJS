@@ -1,0 +1,10 @@
+div {width: 90%; padding: 10px; margin: 20px auto; border-top: 3px solid midnightblue;
+    border-left: 3px groove darkred; box-shadow: 2px 3px midnightblue; border-radius: 10px;}
+
+h1 {font-size: 2em; text-decoration: underline; color: midnightblue;}
+
+p {color: midnightblue; font-size: 1.3em;}
+
+@media only screen and (max-width: 600px) {
+p{font-size: .8;}
+}
